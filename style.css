@@ -76,3 +76,20 @@ nav li {
     border-bottom: 1px solid black; 
     cursor: pointer; 
 }
+
+/* Hero */ 
+
+.hero {
+    padding: 100px 10px; 
+}
+
+.hero p {
+    line-height: 1.5; 
+    font-size: 1.3rem; 
+    margin-bottom: 10px; 
+}
+
+.hero h2, .hero h3 {
+    font-size: 2rem; 
+    padding-bottom: 10px; 
+}
